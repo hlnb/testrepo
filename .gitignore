@@ -1,0 +1,9 @@
+wp-*.php
+/wp-includes
+/wp-admin
+/wp-content/themes/twentyfifteen
+/wp-content/themes/twentysixteen
+/wp-content/plugins
+.vscode
+readme.html
+index.php
