@@ -7,3 +7,6 @@ wp-*.php
 .vscode
 readme.html
 index.php
+.htaccess
+.installedExtras
+license.txt
